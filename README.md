@@ -2,7 +2,7 @@
 
 Para ejecutar el sistema debes poner:
 '''npm install react'''
-
+Sistema de prueba 
 <!--
 **traviajando/traviajando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
